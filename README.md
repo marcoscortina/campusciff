@@ -188,7 +188,8 @@ git branch -d v0.2
 
 
 ### 2.14 Crear una organización llamada campusciff-marcoscortina
-ok
+
+https://github.com/campusciff-marcoscortina
 
 ### 2.15
 
