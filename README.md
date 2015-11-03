@@ -194,16 +194,17 @@ ok
 
 Crear 2 equipos en la organización campusciff-marcoscortina, uno llamado administradores con más permisos y otro colaboradores con menos permisos.
 
+Meter a github.com/asanzdiego y a 2 de vuestros compañeeros de clase en el equipo administradores.
 
-#Meter a github.com/asanzdiego y a 2 de vuestros compañeeros de clase en el equipo administradores.
+https://github.com/campusciff-marcoscortina/marcoscortina.github.io
 
-### 2.15.3 Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores.
+2.15.3 Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores.
 
 https://github.com/marcoscortina
 
 ### 2.16.1 Crear un index.html que se pueda ver como página web en la organización.
 
-ttp://campusciff-marcoscortina.github.io/marcoscortina.github.io
+http://campusciff-marcoscortina.github.io/marcoscortina.github.io
 
 ### 2.17
 
