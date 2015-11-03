@@ -187,22 +187,39 @@ git branch -d v0.2
 ### 2.13 Poner a github.com/asanzdiego como colaborador del repositorio campusciff
 
 
-### 2.14 Crear una organización llamada campusciff-marcoscortina
+### 2.14 Crear una organización llamada campusciff-marcoscortina
 ok
 
-### 2.15.1 Crear 2 equipos en la organización campusciff-marcoscortina, uno llamado administradores con más permisos y otro colaboradores con menos permisos.
-ok
+### 2.15
 
-### 2.15.2 Meter a github.com/asanzdiego y a 2 de vuestros compañeros de clase en el equipo administradores.
-ok
-
-### 2.15.3 Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores.
-ok
-
-### 2.16.1 Crear un index.html que se pueda ver como página web en la organización.
-http://campusciff-marcoscortina.github.io/marcoscortina.github.io/
+Crear 2 equipos en la organización campusciff-marcoscortina, uno llamado administradores con más permisos y otro colaboradores con menos permisos.
 
 
+#Meter a github.com/asanzdiego y a 2 de vuestros compañeeros de clase en el equipo administradores.
+
+### 2.15.3 Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores.
+
+https://github.com/marcoscortina
+
+### 2.16.1 Crear un index.html que se pueda ver como página web en la organización.
+
+ttp://campusciff-marcoscortina.github.io/marcoscortina.github.io
+
+### 2.17
+
+Hacer 2 forks de 2 repositorios campusciff- tunombredeusuariodegithub.github.io de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
+
+Crearos una rama en cada fork.
+
+En cada rama modificar el fichero index.html añaadiendo vuestro nombre.
+
+Con cada rama hacer un pull-request.
+
+https://github.com/marcoscortina
+
+### 2.18.1 Aceptar los pull-request que lleguen a los repositorios de tu organización.
+
+https://github.com/marcoscortina
 
 
 
