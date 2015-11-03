@@ -12,12 +12,12 @@ En este documento se recoge la siguiente información para los ejercicios de git
 curl -u 'marcoscortina' https://api.github.com/user/repos -d '{"name":"campusciff"}'
 ```
 
-###2.1.2 Clonar repositorio en github
+### 2.1.2 Clonar repositorio en github
 ```
 git clone https://github.com/marcoscortina/campusciff
 ```
 
-###2.2.1 Crear README.md y subirlo al repositorio remoto
+### 2.2.1 Crear README.md y subirlo al repositorio remoto
 ```
 touch README.md
 ```
@@ -29,26 +29,26 @@ git commit -a -m "commit inicial"
 ![](https://github.com/marcoscortina/campusciff/raw/master/img/CommitInicial.png)
 
 
-v 2.3.2 Subir los cambios al repositorio remoto
+### 2.3.2 Subir los cambios al repositorio remoto
 ```
-$ git push origin master
+git push origin master
 ```
 
 ### 2.4.1 Crear archivo privado.txt
 ```
-$ touch privado.txt
+touch privado.txt
 ```
 
-v 2.4.2 Crear carpeta “privada” 
+### v 2.4.2 Crear carpeta “privada” 
 ```
-$ mkdir privada
+mkdir privada
 ```
 
 ### 2.4.3 Crear archivo .gitignore e insertar 2 líneas, una para ignorar el archivo privado.txt y otra para ignorar la carpeta privada
 ```
-$ touch .gitignore
-$ echo "privado.txt" >> .gitignore
-$ echo "privada" >> .gitignore
+touch .gitignore
+echo "privado.txt" >> .gitignore
+echo "privada" >> .gitignore
 ```
 
 ### 2.5.1 Crear fichero
@@ -72,7 +72,7 @@ git push origin master
 git branch v0.2
 ```
 
-###  2.6.2 Posicionarse en la rama v0.2 
+### 2.6.2 Posicionarse en la rama v0.2 
 ```
 git checkout v0.2
 ```
@@ -128,7 +128,7 @@ git branch --no-merged
 git branch --merged
 ```
 
-# 2.8.5 Arreglar conflicto
+### 2.8.5 Arreglar conflicto
 ```
 echo "Hola y adios" >> 1.txt
 git add .
@@ -169,16 +169,43 @@ git branch -d v0.2
 
 
 
-
 ### 2.12 Crear una tabla
 
-| Nombre     		| Usuario de GitHub |
-| :-------------------------- | ---- |
-|Adolfo Sanz De Diego					|https://github.com/asanzdiego
-|Alfonso Peña								|https://github.com/alfonsops
-|Borja Moreno Pozo						|https://github.com/bmpozo
-|Carlos Saiz Alves							|https://github.com/Carsaiz
-|Francisco Javier Rivas Torres|https://github.com/jrivax
-|Juan José Díaz López					|https://github.com/jjdiazl
-|Juan Ramón Márquez					|https://github.com/marquezjr
-|Rodrigo Marcos Carvajal				|https://github.com/romcra
+| Nombre     					| Usuario de GitHub 
+| :-------------------------- 	| -------------------------- 
+|Adolfo Sanz De Diego			|https://github.com/asanzdiego
+|Alfonso Peña					|https://github.com/alfonsops
+|Borja Moreno Pozo				|https://github.com/bmpozo
+|Carlos Saiz Alves				|https://github.com/Carsaiz
+|Francisco Javier Rivas Torres	|https://github.com/jrivax
+|Juan José Díaz López			|https://github.com/jjdiazl
+|Juan Ramón Márquez				|https://github.com/marquezjr
+|Rodrigo Marcos Carvajal		|https://github.com/romcra
+
+
+
+### 2.13 Poner a github.com/asanzdiego como colaborador del repositorio campusciff
+
+
+### 2.14 Crear una organización llamada campusciff-marcoscortina
+ok
+
+### 2.15.1 Crear 2 equipos en la organización campusciff-marcoscortina, uno llamado administradores con más permisos y otro colaboradores con menos permisos.
+ok
+
+### 2.15.2 Meter a github.com/asanzdiego y a 2 de vuestros compañeros de clase en el equipo administradores.
+ok
+
+### 2.15.3 Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores.
+ok
+
+### 2.16.1 Crear un index.html que se pueda ver como página web en la organización.
+http://campusciff-marcoscortina.github.io/marcoscortina.github.io/
+
+
+
+
+
+
+
+
